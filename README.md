@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Connor Hunter :slightly_smiling_face:
+## Aspiring Technologist
+
+ - 📖Current high school senior 
+ - 💭Computer science student
+ - ⌨️Currently designing a resposive website using ReactJS as part of an internship program
+ - 🎾Competetive Tennis player
+ - 🎮Avid gamer
+
+Reach me at mohpann@gmail.com
 
 <!--
 **Mohpann/Mohpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
