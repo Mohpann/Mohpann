@@ -3,7 +3,7 @@
 
  - 📖Current high school senior 
  - 💭Computer science student
- - ⌨️Currently designing a resposive website using ReactJS as part of an internship program
+ - ⌨️Currently designing a responsive website using ReactJS as part of an internship program
  - 🎾Competitive Tennis player
  - 🎮Avid gamer
 
