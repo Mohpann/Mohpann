@@ -4,7 +4,7 @@
  - 📖Current high school senior 
  - 💭Computer science student
  - ⌨️Currently designing a resposive website using ReactJS as part of an internship program
- - 🎾Competetive Tennis player
+ - 🎾Competitive Tennis player
  - 🎮Avid gamer
 
 Reach me at mohpann@gmail.com
