@@ -1,11 +1,9 @@
 # Hi, I'm Connor Hunter :slightly_smiling_face:
 ## Aspiring Technologist
 
- - 📖Current Hinsdale Central High School senior 
- - 💭Computer science student
- - ⌨️Currently designing a responsive website using ReactJS as part of an internship program
- - 🎾Competitive Boys Varsity Tennis player 
- - 🎮Avid gamer
+ - 📖Current University of Illinois at Chicago Freshman
+ - 💭Computer Engineering student
+ - ⌨️Currently making a ReactJS website
 
 Reach me at mohpann@gmail.com
 
