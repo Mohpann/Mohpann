@@ -1,9 +1,8 @@
 # Hi, I'm Connor Hunter :slightly_smiling_face:
 ## Aspiring Technologist
 
- - 📖Current University of Illinois at Chicago Freshman
+ - 📖University of Illinois at Chicago Freshman
  - 💭Computer Engineering student
- - ⌨️Currently making a ReactJS website
 
 Reach me at mohpann@gmail.com
 
