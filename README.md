@@ -2,7 +2,7 @@
 ## Aspiring Technologist
 
  - 📖University of Illinois at Chicago Freshman
- - 💭Computer Engineering student
+ - 💭Studying computer science
 
 Reach me at mohpann@gmail.com
 
