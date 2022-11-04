@@ -6,7 +6,7 @@
 
 Reach me at mohpann@gmail.com
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mohpann)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mopann)
 
 <!--
 **Mohpann/Mohpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
