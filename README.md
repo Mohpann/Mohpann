@@ -1,7 +1,7 @@
 # Hi, I'm Connor Hunter :slightly_smiling_face:
 ## Aspiring Technologist
 
- - 📖University of Illinois at Chicago Freshman
+ - 📖University of Illinois at Chicago Sophomore
  - 💭Studying computer engineering
 
 Reach me at mohpann@gmail.com
