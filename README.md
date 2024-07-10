@@ -12,7 +12,7 @@
 
 💬 Interested in: FPGAs, Hardware Description Lanugages, Networking, Dark web
 
-😄 Hobbies: Muay Thai, Hosting gaming servers, motorcycles
+😄 Hobbies: Muay Thai, Hosting gaming servers, Motorcycles
 
 
 Reach me at mohpann@gmail.com
