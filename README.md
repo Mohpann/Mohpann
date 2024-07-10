@@ -4,6 +4,17 @@
  - 📖University of Illinois at Chicago Junior
  - 💭Studying computer engineering
 
+Current CME Group Datacenter Intern
+
+Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java, JavaScript
+
+Founded Algorithmic Trading Club for my university's ACM chapter
+
+Interested in: FPGAs, Hardware Description Lanugages, Networking, Dark web
+
+Hobbies: Muay Thai, Hosting gaming servers, motorcycles
+
+
 Reach me at mohpann@gmail.com
 
 <!--
