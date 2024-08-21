@@ -10,7 +10,7 @@
 
 📚 Founded Algorithmic Trading Club for my university's ACM chapter
 
-💬 Interested in: FPGAs, Hardware Description Lanugages, Networking, Dark web
+💬 Interested in: FPGAs, Computer Networking, and Datacenters
 
 😄 Hobbies: Muay Thai, Hosting gaming servers, Motorcycles
 
