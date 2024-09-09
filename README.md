@@ -1,5 +1,6 @@
 # Hi, I'm Connor Hunter :slightly_smiling_face:
 ## Aspiring Technologist
+### LinkedIn: https://www.linkedin.com/in/connor-hunter-1344a524b/
 
  - 📖University of Illinois at Chicago Junior
  - 💭Studying computer engineering
