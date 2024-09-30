@@ -2,18 +2,18 @@
 ## Aspiring Technologist
 ### LinkedIn: https://www.linkedin.com/in/connor-hunter-1344a524b/
 
- - 📖University of Illinois at Chicago Junior
+ - 📖University of Illinois at Chicago Sophomore
  - 💭Studying computer engineering
 
-🖥️ Current CME Group Datacenter Intern
+🖥️ Inerned at CME Group Datacenter
 
 ⚡ Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java, JavaScript
 
 📚 Founded Algorithmic Trading Club for my university's ACM chapter
 
-💬 Interested in: FPGAs, Computer Networking, and Datacenters
+💬 Interested in: Motorcycles, Gaming, Computer Networking, and Datacenters
 
-😄 Hobbies: Muay Thai, Hosting gaming servers, Motorcycles
+😄 Hobbies: Muay Thai, Hosting gaming servers
 
 
 Reach me at mohpann@gmail.com
