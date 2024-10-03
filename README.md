@@ -5,7 +5,7 @@
  - 📖University of Illinois at Chicago Sophomore
  - 💭Studying computer engineering
 
-🖥️ Inerned at CME Group Datacenter
+🖥️ Interned at CME Group Datacenter
 
 ⚡ Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java, JavaScript
 
