@@ -7,7 +7,7 @@
 
 🖥️ Interned at CME Group Datacenter
 
-⚡ Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java, JavaScript
+⚡ Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java
 
 📚 Founded Algorithmic Trading Club for my university's ACM chapter
 
