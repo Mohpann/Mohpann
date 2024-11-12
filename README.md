@@ -1,15 +1,9 @@
 # Hi, I'm Connor Hunter :slightly_smiling_face:
 ## Aspiring Technologist
-### LinkedIn: https://www.linkedin.com/in/connor-hunter-1344a524b/
-
- - 📖University of Illinois at Chicago Sophomore
- - 💭Studying computer engineering
 
 🖥️ Interned at CME Group Datacenter
 
 ⚡ Skilled in: Python, Node.js, TypeScript, AWS EC2, Linux, C++, C, Java
-
-📚 Founded Algorithmic Trading Club for my university's ACM chapter
 
 💬 Interested in: Motorcycles, Gaming, Computer Networking, and Datacenters
 
