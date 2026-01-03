@@ -14,18 +14,6 @@ Dev with a background in infrastructure and web-development. Previous intern at 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohpann&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohpann&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohpann&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Contact
 
 📧 Email: [mohpann@gmail.com](mailto:mohpann@gmail.com)
