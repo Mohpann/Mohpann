@@ -8,7 +8,7 @@ Dev with a background in infrastructure and web-development. Previous intern at 
 
 * **Languages**: Python 3, JavaScript/TypeScript (React.js)
 * **Web**: React.js, Vite, Next.js
-* **Cloud**: AWS EC2
+* **Cloud**: AWS EC2, AWS S3
 * **Systems**: Linux (Ubuntu Server, RedHat), Bash
 * **Other**: Dedicated Game Server Hosting, Git, Tailscale, Samba
 
