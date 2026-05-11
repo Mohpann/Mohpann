@@ -1,6 +1,6 @@
 # Connor Hunter
 
-Dev with a background in infrastructure and web-development. Previous intern at [CME Group](https://www.cmegroup.com/), where I worked with server infrastructure.
+Techie with a background in infrastructure and web-development. Previous intern at [CME Group](https://www.cmegroup.com/), where I worked with server infrastructure.
 
 Currently I'm a paralegal at [Blake Harris Law](https://www.blakeharrislaw.com/). I made their website and do AI stuff.
 
